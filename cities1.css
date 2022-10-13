@@ -1,0 +1,39 @@
+*{
+      margin: 0 px;
+      box-sizing : border-box;
+}
+body{
+      width: 80%;
+      margin: auto ;
+      background-color:gray;
+} 
+header{
+      text-align: center ;
+      background-color: darkgray;
+      font-size: 30px;
+      padding:20px;
+}  li{
+
+
+}
+li:hover{
+      background-color: cyan;
+}
+section{
+
+
+}
+nav{
+      float:left ;
+      width: 30% ;
+      background-color: darkgray;
+
+}
+article {
+
+}
+footer{
+
+
+
+}
